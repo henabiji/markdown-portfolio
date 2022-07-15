@@ -1,2 +1,1 @@
-**Knows c,php and python.
-**Active learner
+**Knows c,php and python
